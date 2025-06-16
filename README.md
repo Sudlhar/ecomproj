@@ -34,13 +34,6 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce web applicati
 
 ---
 
-## Demo
-
-Add a link to your live demo here (if hosted):
-
-[https://your-demo-url.com](https://your-demo-url.com)
-
----
 
 ## Tech Stack
 
