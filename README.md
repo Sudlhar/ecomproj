@@ -73,5 +73,3 @@ Follow these instructions to get a copy of the project running on your local mac
 git clone https://github.com/Sudlhar/ecomproj.git
 cd ecomproj
 
-
-![Course Thumbnail](/thumb.png)
